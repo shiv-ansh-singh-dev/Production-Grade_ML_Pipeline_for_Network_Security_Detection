@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML Models
+*.pkl
+*.joblib
+final_model/
+Artifacts/
+
+# Logs
+logs/
+*.log
+
+# Dataset
+Network_Data/
+valid_data/
+prediction_output/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
